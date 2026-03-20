@@ -1,1 +1,1 @@
-# Javascript-Number-Counter
+# Javascript-Pro-NumberCounter
